@@ -15,6 +15,6 @@ A heat recovery steam generator (HRSG) captures exhaust heat from the gas turbin
 3) Steam turbine delivers additional electricity:
 The steam turbine sends its energy to the generator drive shaft, where it is converted into additional electricity.
 
-#BEST MODEL 
+# BEST MODEL 
 
 When all models are compared the best accuracy i.e of 96.18 is given by random forest regressor with n_estimators=15.
